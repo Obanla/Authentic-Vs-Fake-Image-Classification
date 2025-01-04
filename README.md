@@ -1,2 +1,3 @@
 # Authentic-Vs-Fake-Image-Classification
 A Convolutional Neural Network Solution to Classifying Fake Images From Authentic
+This project belongs to a series of projects on classsification in machine learning. Here the aim is to try to determine which Convolutional Neural Network works best for the task of classifying fake images and authentic images. This project analyzes the performance of two state of the art Convolutional Neural Network Models on this task; The ReeNet-18 and VGG-16 CNN Models. By establishing which of these two CNN models performs best, revolutionalizing the digital forensics and medical imaging scene.
